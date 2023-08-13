@@ -1,5 +1,3 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
-
 # Presentación
 
 Hola! Mi nombre es Marcelo Valdez. Tengo 36 años y vivo en Haedo. Desde muy chico tuve un interés especial con todo lo relacionado a la tecnología digital y especialmente a la programación, pero nunca tuve la posibilidad de poder aprender al respecto formalmente. Por eso ***("mas vale tarde que nunca", dicen...)*** decidí ingresar a la UNAHUR para estudiar la Tecnicatura en Programación y continuar con la Licenciatura en Informática. Hoy en día, estoy cursando el segundo año de la carrera. 
