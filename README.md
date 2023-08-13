@@ -1,38 +1,21 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# Presentación
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola! Mi nombre es Marcelo Valdez. Tengo 36 años y vivo en Haedo. Desde muy chico tuve un interés especial con todo lo relacionado a la tecnología digital y especialmente a la programación, pero nunca tuve la posibilidad de poder aprender al respecto formalmente. Por eso ***("mas vale tarde que nunca", dicen...)*** decidí ingresar a la UNAHUR para estudiar la Tecnicatura en Programación y continuar con la Licenciatura en Informática. Hoy en día, estoy cursando el segundo año de la carrera. 
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+---
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+# Profesión, trabajo y planes futuros
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Desde hace 12 años me dedico a la docencia. Soy profesor de Inglés en Nivel Secundario, pero a lo largo de este tiempo he trabajo en todos los niveles, excepto Universitario. Además, desde hace 4 años estoy trabajando como editor y revisor de textos académicos en Inglés. En el futuro, quisiera poder complementar mi profesión con algo relacionado a la programación. Tengo algunas ideas en la mente, pero eso quedará para otro momento...     
 
-### Presentacion Personal
+---
 
-Me llamo ...
+# Hobbies y tiempo libre
 
-Me gusta ...
+- Me gusta ensayar con mis amigos y grabar música en mi casa (soy bajista). En estas últimas semanas, estuvimos grabando una reversion de un álbum de The Cure. 
+- Muy esporádicamente, me gusta dedicarme al modelismo y pintado de figuras de colección, especialmente si son figuras de anime o comics. Como es una tarea que requiere mucha concentración, suelo hacerlo cuando tengo más tiempo libre, como los fines de semana largos o bien en vacaciones de invierno y verano. 
+- Tambien practico [Iaido](https://www.instagram.com/reel/CqCLQPpLJqH "Este soy yo practicando Iaido"), un arte marcial donde se aprende el uso de la katana (tipo de sable japonés). Estoy a muy pocos meses de rendir para cinturón negro, por lo que estoy entrenando mucho últimamente.  
 
-Me dedico a / Trabajo de ...
 
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
